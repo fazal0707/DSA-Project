@@ -35,4 +35,4 @@
 2. Open a terminal or command prompt and navigate to the project folder.
 3. Run the following command:
    ```bash
-   python <filename>.py
+   python DSAAdventureQuest.py
